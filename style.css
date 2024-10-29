@@ -13,3 +13,11 @@ section{
     margin-right: 100;
 
     }
+    img{
+        height: 200px;
+    }
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
