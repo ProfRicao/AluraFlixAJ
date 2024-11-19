@@ -3,6 +3,11 @@ body{
     color: white;
     font-family: "Roboto", sans-serif;
 }
+header{
+    font-size: 40px;
+    padding-left: 30px;
+    background-color: rgb(246, 246, 246);
+}
 .chamada{
     background: #25470a;
     padding-bottom: 80px;
