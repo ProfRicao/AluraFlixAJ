@@ -2,7 +2,7 @@ body{
     background-color:rgb(6, 130, 1);
     color: white;
 }
-section{
+.chamada{
     background: #25470a;
     padding-bottom: 80px;
     padding-top: 80px;
