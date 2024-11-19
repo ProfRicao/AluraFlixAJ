@@ -8,9 +8,9 @@ body{
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    padding-left: 20px;
-    padding-right: 20px;
+    
 }
+
 .chamada-texto{
     margin-right: 100;
 
@@ -18,6 +18,11 @@ body{
     img{
         height: 200px;
     }
+
+.categoria{
+    padding-left: 100px;
+    padding-right: 100px;
+}
 .categoria-videos{
     display: flex;
     overflow-x: auto;
